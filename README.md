@@ -4,6 +4,8 @@
 ![diseñouc](https://liderazgoescolar.uc.cl/images/Formacion/DDLE/UC.png)
 # Haciendo Match con un Profesor/a Guía
 
+**Proceso de emparejamiento entre estudiantes y profesores guía en la Escuela de Diseño UC, considerando preferencias estudiantiles, especialización y disponibilidad de los profesores, compatibilidad, y retroalimentación de experiencias previas.**
+
 La visualización abarcará las dimensiones de interés tanto de los estudiantes como de los profesores, así como los indicadores que facilitan el match ideal de profesor/a guía para el proceso de titulación en la escuela de DISEÑO UC. Esto con el fin de tomar una decisión informada a la hora de escoger profesor/a para el proceso. 
 
 
