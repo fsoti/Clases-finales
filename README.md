@@ -4,7 +4,7 @@
 ![diseñouc](https://liderazgoescolar.uc.cl/images/Formacion/DDLE/UC.png)
 # Haciendo Match con un Profesor/a Guía
 
-### La visualización abarcará las dimensiones de interés tanto de los estudiantes como de los profesores, así como los indicadores que facilitan el match ideal de profesor/a guía para el proceso de titulación en la escuela de DISEÑO UC. 
+La visualización abarcará las dimensiones de interés tanto de los estudiantes como de los profesores, así como los indicadores que facilitan el match ideal de profesor/a guía para el proceso de titulación en la escuela de DISEÑO UC. Esto con el fin de tomar una decisión informada a la hora de escoger profesor/a para el proceso. 
 
 
 | **Dimensión**                     | **Indicador**                            | **Descripción**                                                                                                                                                   |
