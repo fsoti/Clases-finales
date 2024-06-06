@@ -1,6 +1,4 @@
-# Clases-Finales
 
-----
 ![diseñouc](https://liderazgoescolar.uc.cl/images/Formacion/DDLE/UC.png)
 # Haciendo Match con un Profesor/a Guía
 
