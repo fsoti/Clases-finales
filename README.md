@@ -28,4 +28,4 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
 |                                   | Promedio de PGA de la última generación  | Promedio de PGA de la generación anterior con la que se escogió al profesor/a en relación a la cantidad de cupos que tiene cada uno.                                |
 
 -------------
-### Clase 14 ° proceso final del curso
+### Clase 14 ° proceso del proyecto final del curso
