@@ -27,35 +27,5 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
 |                                   | Comentarios sobre la experiencia de tutoría | Detalles específicos y comentarios sobre la calidad y efectividad de la tutoría recibida por el profesor/a.                                                      |
 |                                   | Promedio de PGA de la última generación  | Promedio de PGA de la generación anterior con la que se escogió al profesor/a en relación a la cantidad de cupos que tiene cada uno.                                |
 
-
-
-----
-##### PARA ESCRIBIR AQUÍ:
-
-Para hacer un espacio entre líneas --> dejar un literal un espacio
-
-Italica: *text*
-
-Bold: **text**
-
->blockquote
-
-Lista:
-- Punteo
-  - Punteo
-
-1. Números
-2. Números
-
-Para tablas:
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-- - - - - - - 
-
-Este es el truquito para marcar el texto: `#:~:text=` en una página web.
-
-- - - - - - - - - - - - - - 
-
+-------------
+### Clase 14 ° proceso final del curso
