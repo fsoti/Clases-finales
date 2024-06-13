@@ -69,6 +69,9 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      Por mejorar: 
 
+
+Otro sitios web que utilizan dashboards para presentar la información: 
+
 - [Dashboard SAAS](https://www.behance.net/gallery/184064899/Dashboard-SAAS) 
 - [Finance Dashbard](https://www.behance.net/gallery/200511691/Finance-Dashbard) 
 - [Dribble dasboard](https://www.figma.com/proto/4moBwqznAvPYcTYCyuLNza/Dribble-Dasboard?node-id=5-2&t=OsHrJdhKQkae1rnG-0&scaling=scale-down&page-id=0%3A1)
