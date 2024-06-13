@@ -32,22 +32,23 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
  
 ##### Antecedentes (Sitios web con dashboards) :
   1. [Gender pay gap](https://www.clicdata.com/dashboards/gender-pay-gap/)
-     (![Gendergap](https://github.com/fsoti/Clases-finales/assets/94652662/8bf2defc-c9aa-4409-b0e6-ed98729e712d)
+     ![Gendergap](https://github.com/fsoti/Clases-finales/assets/94652662/8bf2defc-c9aa-4409-b0e6-ed98729e712d)
+
      Positivo: Los datos que se presentan se logran entender y es posible informarse por la manera en que se presentan. El expectador puede elegir entre parametros para que la información cambie.
      Por mejorar: Los gráficos tienden a ser monotonos una vez que se empiezan a analizarlos. No hay colores que resalten cierta información. La elección de algunos gráficos puede no haber sido la mejor.
-  2. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
+  3. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
      ![Googleanalytics](![image](![image](https://github.com/fsoti/Clases-finales/assets/94652662/a8bc4997-b129-46a1-8113-2af183f67c84)
 )
      Positivo: La paleta de colores centra la vista en los datos y en partes importantes de cada gráfico.
      Por mejorar: Algunos términos no son de uso común por lo que esto tiende a que se pierda la atención del expectador y que no se den a entender al 100% los datos, por ende no se cumple el objetivo de informar.
-  3. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
+  4. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
      Positivo: Utiliza una narrativa clara para presentar los datos y para guiar al expectador en entenderlos. La gráfica acompaña tanto la narrativa como los datos. Para seguir informando al expectador, hay enlaces externos.
      Por mejorar: No toda la información esta presentada mediante gráficos, por ende esto puede guiar al lector a tomar cierta postura, no por lo datos sino por cómo estan presentados.
-  4. [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard)
+  5. [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard)
      ![2024 World Economic Forum Travel & Tourism Development Index](https://github.com/fsoti/Clases-finales/assets/94652662/5732b7a0-771f-451a-b660-51c07889f49c)
      Positivo: 
      Por mejorar: 
-  5. [Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
+  6. [Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
      Positivo: 
      Por mejorar: 
 
