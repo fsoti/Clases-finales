@@ -94,5 +94,5 @@ Qué se busca con el dashboard:
 
 ### Bocetos de wireframe
 
-![boceto](https://github.com/fsoti/Clases-finales/assets/94652662/fe06a544-4d2e-4a02-b249-6353e0f5f9b7)
+![boceto](https://github.com/fsoti/Clases-finales/assets/94652662/f8395c83-8079-4a6b-ae37-352163b00460)
 
