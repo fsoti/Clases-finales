@@ -80,10 +80,11 @@ Otro sitios web que utilizan dashboards para presentar la información:
 - [Dashboard food app](https://www.behance.net/gallery/193042493/Dashboard-food-app)
 
 
-Qué se busca con el dashboard
-Interactividad: Permite a los usuarios explorar los datos de manera interactiva.
-Contexto y Narrativa: Acompaña las visualizaciones con una narrativa que facilita la comprensión.
-Transparencia: Proporciona acceso a las fuentes de datos y explica la metodología.
-Diseño: Es visualmente atractivo y fácil de usar.
+Qué se busca con el dashboard:
 
-Comentario general de la mayoría de los dashboard: a pesar de que hay un trabajo de organizar cada módulo de información en una grilla, esta pierde la narrativa, es decir no cuenta una historia que sea fácil de seguir. Por ejemplo si en Chile leemos de izquierda a derecha y de arriba hacia abajo tal vez debiese existir una lógica parecida para jerarquizar la información para así guiar al lector y entender mejor los gráficos y los datos que se presentan. 
+- Interactividad: Permite a los usuarios explorar los datos de manera interactiva.
+- Contexto y Narrativa: Acompaña las visualizaciones con una narrativa que facilita la comprensión.
+- Transparencia: Proporciona acceso a las fuentes de datos y explica la metodología.
+- Diseño: Es visualmente atractivo y fácil de usar.
+
+**Comentario general de la mayoría de los dashboard:** a pesar de que hay un trabajo de organizar cada módulo de información en una grilla, esta pierde la narrativa, es decir no cuenta una historia que sea fácil de seguir. Por ejemplo si en Chile leemos de izquierda a derecha y de arriba hacia abajo tal vez debiese existir una lógica parecida para jerarquizar la información para así guiar al lector y entender mejor los gráficos y los datos que se presentan. 
