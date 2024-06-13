@@ -69,12 +69,12 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      Por mejorar: 
 
-[Dashboard SAAS](https://www.behance.net/gallery/184064899/Dashboard-SAAS) 
-[Finance Dashbard](https://www.behance.net/gallery/200511691/Finance-Dashbard) 
-[Dribble dasboard](https://www.figma.com/proto/4moBwqznAvPYcTYCyuLNza/Dribble-Dasboard?node-id=5-2&t=OsHrJdhKQkae1rnG-0&scaling=scale-down&page-id=0%3A1)
-[Dashboard Movie](https://www.behance.net/gallery/195118501/Dashboard-Movie)
-[Global_Deaf_Research](https://public.tableau.com/app/profile/adrian.zinovei/viz/Global_Deaf_Research/GDF_VFSG)
-[Dashboard food app](https://www.behance.net/gallery/193042493/Dashboard-food-app)
+- [Dashboard SAAS](https://www.behance.net/gallery/184064899/Dashboard-SAAS) 
+- [Finance Dashbard](https://www.behance.net/gallery/200511691/Finance-Dashbard) 
+- [Dribble dasboard](https://www.figma.com/proto/4moBwqznAvPYcTYCyuLNza/Dribble-Dasboard?node-id=5-2&t=OsHrJdhKQkae1rnG-0&scaling=scale-down&page-id=0%3A1)
+- [Dashboard Movie](https://www.behance.net/gallery/195118501/Dashboard-Movie)
+- [Global_Deaf_Research](https://public.tableau.com/app/profile/adrian.zinovei/viz/Global_Deaf_Research/GDF_VFSG)
+- [Dashboard food app](https://www.behance.net/gallery/193042493/Dashboard-food-app)
 
 
 Qué se busca con el dashboard
