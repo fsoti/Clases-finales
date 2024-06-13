@@ -41,14 +41,14 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
   3. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
    
-     (![image](https://github.com/fsoti/Clases-finales/assets/94652662/a8bc4997-b129-46a1-8113-2af183f67c84)
+     ![image](https://github.com/fsoti/Clases-finales/assets/94652662/a8bc4997-b129-46a1-8113-2af183f67c84)
      
      Positivo: La paleta de colores centra la vista en los datos y en partes importantes de cada gráfico.
      
      Por mejorar: Algunos términos no son de uso común por lo que esto tiende a que se pierda la atención del expectador y que no se den a entender al 100% los datos, por ende no se cumple el objetivo de informar.
      
   6. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
-  7. 
+     
      Positivo: Utiliza una narrativa clara para presentar los datos y para guiar al expectador en entenderlos. La gráfica acompaña tanto la narrativa como los datos. Para seguir informando al expectador, hay enlaces externos.
      
      Por mejorar: No toda la información esta presentada mediante gráficos, por ende esto puede guiar al lector a tomar cierta postura, no por lo datos sino por cómo estan presentados.
