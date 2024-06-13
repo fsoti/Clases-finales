@@ -32,7 +32,7 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
  
 ##### Antecedentes (Sitios web con dashboards) :
   1. [Gender pay gap](https://www.clicdata.com/dashboards/gender-pay-gap/)
-     ![Gendergap](![image](https://github.com/fsoti/Clases-finales/assets/94652662/8bf2defc-c9aa-4409-b0e6-ed98729e712d)
+     (![Gendergap](https://github.com/fsoti/Clases-finales/assets/94652662/8bf2defc-c9aa-4409-b0e6-ed98729e712d)
      Positivo: Los datos que se presentan se logran entender y es posible informarse por la manera en que se presentan. El expectador puede elegir entre parametros para que la información cambie.
      Por mejorar: Los gráficos tienden a ser monotonos una vez que se empiezan a analizarlos. No hay colores que resalten cierta información. La elección de algunos gráficos puede no haber sido la mejor.
   2. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
