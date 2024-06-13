@@ -27,3 +27,40 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
 
 -------------
 ### Clase 14 ° proceso del proyecto final del curso
+
+
+https://www.clicdata.com/dashboards/gender-pay-gap/
+
+https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy
+
+https://www.behance.net/gallery/193626535/UI-Dashboard-Screen-Daily-Challenge/modules/1095464913
+
+https://www.behance.net/gallery/184064899/Dashboard-SAAS/modules/1040023735
+
+https://www.behance.net/gallery/200511691/Finance-Dashbard/modules/1136715819
+
+https://www.behance.net/gallery/199830481/Dashboard-Design/modules/1132574659
+
+https://www.behance.net/gallery/181483085/Management-Dashboard/modules/1025179159
+
+https://www.behance.net/gallery/181483085/Management-Dashboard/modules/1025179171
+
+https://www.behance.net/gallery/195118501/Dashboard-Movie/modules/1104267659
+
+https://public.tableau.com/app/profile/adrian.zinovei/viz/Global_Deaf_Research/GDF_VFSG
+
+https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard
+
+https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews *
+
+https://informationisbeautiful.net/visualizations/left-vs-right-world/
+
+https://www.behance.net/gallery/193042493/Dashboard-food-app/modules/1092044967
+
+Qué se busca con el dashboard
+Interactividad: Permite a los usuarios explorar los datos de manera interactiva.
+Contexto y Narrativa: Acompaña las visualizaciones con una narrativa que facilita la comprensión.
+Transparencia: Proporciona acceso a las fuentes de datos y explica la metodología.
+Diseño: Es visualmente atractivo y fácil de usar.
+
+Comentario general de la mayoría de los dashboard: a pesar de que hay un trabajo de organizar cada módulo de información en una grilla, esta pierde la narrativa, es decir no cuenta una historia que sea fácil de seguir. Por ejemplo si en Chile leemos de izquierda a derecha y de arriba hacia abajo tal vez debiese existir una lógica parecida para jerarquizar la información para así guiar al lector y entender mejor los gráficos y los datos que se presentan. 
