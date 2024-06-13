@@ -48,7 +48,9 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      Por mejorar: Algunos términos no son de uso común por lo que esto tiende a que se pierda la atención del expectador y que no se den a entender al 100% los datos, por ende no se cumple el objetivo de informar.
      
   6. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
-     
+
+     ![Screenshot 2024-06-13 at 13 27 52](https://github.com/fsoti/Clases-finales/assets/94652662/7841ddbe-f075-4f81-a0e4-a70bb73612f5)
+
      Positivo: Utiliza una narrativa clara para presentar los datos y para guiar al expectador en entenderlos. La gráfica acompaña tanto la narrativa como los datos. Para seguir informando al expectador, hay enlaces externos.
      
      Por mejorar: No toda la información esta presentada mediante gráficos, por ende esto puede guiar al lector a tomar cierta postura, no por lo datos sino por cómo estan presentados.
