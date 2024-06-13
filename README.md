@@ -67,10 +67,10 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
 
    ![image](https://github.com/fsoti/Clases-finales/assets/94652662/a3e43f04-c492-4554-aa1f-0c1320cb2a21)
 
-      
-     **Positivo:** La información se adapta a diferentes dispositivos. Dada cierta información se presentan resumenes de estos, por ejemplo de totales. Con efectos de simplificar al lector tener que hacer estas conexiones, esto resulta útil. 
+   **Positivo:** La información se adapta a diferentes dispositivos. Dada cierta información se presentan resumenes de estos, por ejemplo de totales. Con efectos de simplificar al lector tener que hacer estas conexiones, esto resulta útil.
      
-     **Por mejorar:** La paleta de colores escogida resulta un poco monotona. 
+   **Por mejorar:** La paleta de colores escogida resulta un poco monotona.
+
 
 
 Otro sitios web que utilizan dashboards para presentar la información: 
