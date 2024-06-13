@@ -72,6 +72,7 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
    **Por mejorar:** La paleta de colores escogida resulta un poco monotona.
 
 
+--------------------------------
 
 Otro sitios web que utilizan dashboards para presentar la información: 
 
