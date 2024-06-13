@@ -39,7 +39,7 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      **Por mejorar:** Los gráficos tienden a ser monotonos una vez que se empiezan a analizarlos. No hay colores que resalten cierta información. La elección de algunos gráficos puede no haber sido la mejor.
      
-  3. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
+  2. [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy)
    
      ![image](https://github.com/fsoti/Clases-finales/assets/94652662/a8bc4997-b129-46a1-8113-2af183f67c84)
      
@@ -47,7 +47,7 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      **Por mejorar:** Algunos términos no son de uso común por lo que esto tiende a que se pierda la atención del expectador y que no se den a entender al 100% los datos, por ende no se cumple el objetivo de informar.
      
-  6. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
+  3. [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews)
 
      ![Screenshot 2024-06-13 at 13 27 52](https://github.com/fsoti/Clases-finales/assets/94652662/7841ddbe-f075-4f81-a0e4-a70bb73612f5)
 
@@ -55,7 +55,7 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      **Por mejorar:** No toda la información esta presentada mediante gráficos, por ende esto puede guiar al lector a tomar cierta postura, no por lo datos sino por cómo estan presentados.
      
-  9. [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard)
+  4. [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard)
       
      ![2024 World Economic Forum Travel & Tourism Development Index](https://github.com/fsoti/Clases-finales/assets/94652662/5732b7a0-771f-451a-b660-51c07889f49c)
      
@@ -63,7 +63,10 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
      
      **Por mejorar:** La legibilidad para entender los datos, más allá de la narrativa, puede mejorar.
      
-  11. ![Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
+  5. [Management dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
+
+   ![image](https://github.com/fsoti/Clases-finales/assets/94652662/a3e43f04-c492-4554-aa1f-0c1320cb2a21)
+
       
      **Positivo:** La información se adapta a diferentes dispositivos. Dada cierta información se presentan resumenes de estos, por ejemplo de totales. Con efectos de simplificar al lector tener que hacer estas conexiones, esto resulta útil. 
      
