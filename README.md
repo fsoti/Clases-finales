@@ -91,3 +91,8 @@ Qué se busca con el dashboard:
 **- Diseño:** Es visualmente atractivo y fácil de usar.
 
 **Comentario general de la mayoría de los dashboard:** a pesar de que hay un trabajo de organizar cada módulo de información en una grilla, esta pierde la narrativa, es decir no cuenta una historia que sea fácil de seguir. Por ejemplo si en Chile leemos de izquierda a derecha y de arriba hacia abajo tal vez debiese existir una lógica parecida para jerarquizar la información para así guiar al lector y entender mejor los gráficos y los datos que se presentan. 
+
+### Bocetos de wireframe
+
+![boceto](https://github.com/fsoti/Clases-finales/assets/94652662/fe06a544-4d2e-4a02-b249-6353e0f5f9b7)
+
