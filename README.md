@@ -59,15 +59,15 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
       
      ![2024 World Economic Forum Travel & Tourism Development Index](https://github.com/fsoti/Clases-finales/assets/94652662/5732b7a0-771f-451a-b660-51c07889f49c)
      
-     **Positivo:** La paleta de colores ayuda a entender y jerarquizar la información para el lector. 
+     **Positivo:** La paleta de colores ayuda a entender y jerarquizar la información para el lector. La gráfica acompaña la narrativa. Los gráficos están integrados en la narrativa.
      
-     **Por mejorar:**
+     **Por mejorar:** La legibilidad para entender los datos, más allá de la narrativa, puede mejorar.
      
-  11. [Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
+  11. ![Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard)
       
-     **Positivo:** 
+     **Positivo:** La información se adapta a diferentes dispositivos. Dada cierta información se presentan resumenes de estos, por ejemplo de totales. Con efectos de simplificar al lector tener que hacer estas conexiones, esto resulta útil. 
      
-     **Por mejorar:** 
+     **Por mejorar:** La paleta de colores escogida resulta un poco monotona. 
 
 
 Otro sitios web que utilizan dashboards para presentar la información: 
