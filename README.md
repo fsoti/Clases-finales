@@ -1,4 +1,6 @@
 
+### Clase 14 ° proceso del proyecto final del curso
+
 ![diseñouc](https://liderazgoescolar.uc.cl/images/Formacion/DDLE/UC.png)
 # Haciendo Match con un Profesor/a Guía
 
@@ -26,36 +28,25 @@ La visualización abarcará las dimensiones de interés tanto de los estudiantes
 |                                   | Promedio de PGA de la última generación  | Promedio de PGA de la generación anterior con la que se escogió al profesor/a en relación a la cantidad de cupos que tiene cada uno.                                |
 
 -------------
-### Clase 14 ° proceso del proyecto final del curso
+### Clase 15 ° proceso del proyecto final del curso
 
+Sitios web con dashboards 
 
-https://www.clicdata.com/dashboards/gender-pay-gap/
+| N° | WEB | Positivo | Negativo |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | [Gender pay gap](https://www.clicdata.com/dashboards/gender-pay-gap/) | Los datos que se presentan se logran entender y es posible informarse por la manera en que se presentan. El expectador puede elegir entre parametros para que la información cambie.| Los gráficos tienden a ser monotonos una vez que se empiezan a analizarlos. No hay colores que resalten cierta información. La elección de algunos gráficos puede no haber sido la mejor. |
+| 2 | [Google analytics dashboard](https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy) | La paleta de colores centra la vista en los datos y en partes importantes de cada gráfico. | Algunos términos no son de uso común por lo que esto tiende a que se pierda la atención del expectador y que no se den a entender al 100% los datos, por ende no se cumple el objetivo de informar. |
+| 3 | [Dashboard SAAS](https://www.behance.net/gallery/184064899/Dashboard-SAAS) |  |  |
+| 4 | [Finance Dashbard](https://www.behance.net/gallery/200511691/Finance-Dashbard) |  | |
+| 5 | [Dribble dasboard](https://www.figma.com/proto/4moBwqznAvPYcTYCyuLNza/Dribble-Dasboard?node-id=5-2&t=OsHrJdhKQkae1rnG-0&scaling=scale-down&page-id=0%3A1) |  |  |
+| 6 | [Management Dashboard](https://www.behance.net/gallery/181483085/Management-Dashboard) |  | |
+| 7 | [Dashboard Movie](https://www.behance.net/gallery/195118501/Dashboard-Movie) | |  |
+| 8 | [Dashboard Movie](https://public.tableau.com/app/profile/adrian.zinovei/viz/Global_Deaf_Research/GDF_VFSG) | |  |
+| 9 | [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard) | |  |
+| 10 | [2024 World Economic Forum Travel & Tourism Development Index](https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard) | |  |
+| 11 | [US ELECTIONS](https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews) | |  |
+| 12 | [Dashboard food app](https://www.behance.net/gallery/193042493/Dashboard-food-app) | |  |
 
-https://app.cumul.io/s/google-analytics-dashboard-template-t09kgsbh1x5cww09?_gl=1*1q1zemq*_gcl_au*MTM2OTI5OTAxMC4xNzE4MjA3MDg5*_ga*MTA2MzM4OTAyMy4xNzE4MjA3MDg5*_ga_DNMC2VH2X3*MTcxODIwNzA4OC4xLjAuMTcxODIwNzA4OC4wLjAuODQxNDgzMzUy
-
-https://www.behance.net/gallery/193626535/UI-Dashboard-Screen-Daily-Challenge/modules/1095464913
-
-https://www.behance.net/gallery/184064899/Dashboard-SAAS/modules/1040023735
-
-https://www.behance.net/gallery/200511691/Finance-Dashbard/modules/1136715819
-
-https://www.behance.net/gallery/199830481/Dashboard-Design/modules/1132574659
-
-https://www.behance.net/gallery/181483085/Management-Dashboard/modules/1025179159
-
-https://www.behance.net/gallery/181483085/Management-Dashboard/modules/1025179171
-
-https://www.behance.net/gallery/195118501/Dashboard-Movie/modules/1104267659
-
-https://public.tableau.com/app/profile/adrian.zinovei/viz/Global_Deaf_Research/GDF_VFSG
-
-https://public.tableau.com/app/profile/sherzodbek.ibragimov/viz/2024WorldEconomicForumTravelTourismDevelopmentIndex/Dashboard
-
-https://public.tableau.com/app/profile/neoris.spain/viz/USELECTIONS_17171383280740/NeoNews *
-
-https://informationisbeautiful.net/visualizations/left-vs-right-world/
-
-https://www.behance.net/gallery/193042493/Dashboard-food-app/modules/1092044967
 
 Qué se busca con el dashboard
 Interactividad: Permite a los usuarios explorar los datos de manera interactiva.
