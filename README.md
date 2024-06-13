@@ -100,5 +100,13 @@ Qué se busca con el dashboard:
 
 ### Bocetos de wireframe
 
-![boceto](https://github.com/fsoti/Clases-finales/assets/94652662/f8395c83-8079-4a6b-ae37-352163b00460)
+![boceto](https://github.com/fsoti/Clases-finales/assets/94652662/f8395c83-8079-4a6b-ae37-352163b00460) 
+
+**Bocetos wirefram.cc**
+
+[Boceto dashboard](https://wireframe.cc/LxTprb)
+
+
+![Screenshot 2024-06-13 at 15 10 10](https://github.com/fsoti/Clases-finales/assets/94652662/0fb440f4-4b7e-40ba-8149-8db9590c9ed6)
+
 
